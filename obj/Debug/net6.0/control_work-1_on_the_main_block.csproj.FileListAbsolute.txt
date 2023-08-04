@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\bin\Debug\net6.0\control_work-1_on_the_main_block.exe
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\bin\Debug\net6.0\control_work-1_on_the_main_block.deps.json
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\bin\Debug\net6.0\control_work-1_on_the_main_block.runtimeconfig.json
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\bin\Debug\net6.0\control_work-1_on_the_main_block.dll
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\bin\Debug\net6.0\control_work-1_on_the_main_block.pdb
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.AssemblyInfo.cs
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.dll
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\refint\control_work-1_on_the_main_block.dll
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.pdb
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\control_work-1_on_the_main_block.genruntimeconfig.cache
+E:\GeekBrains\C#\Control Work #1\control_work-1_on_the_main_block\obj\Debug\net6.0\ref\control_work-1_on_the_main_block.dll
